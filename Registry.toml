@@ -1,0 +1,6 @@
+name = "haakonRegistry"
+uuid = "c2c46d28-3be2-4358-9c6d-3dfe6508e42e"
+repo = "https://github.com/haakon-e/haakonRegistry.jl.git"
+description = "Registry for unregistered seismic dependencies"
+
+[packages]
